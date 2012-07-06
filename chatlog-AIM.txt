@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="yes" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<meta http-equiv="content-type" content="application/xhtml+xml;charset=utf-8"/>
+<title>IM History with buddy Beta</title><link rel="stylesheet" href="styles.css" type="text/css">
+</head>
+<body><h1><img src="http://api.oscar.aol.com/expressions/get?f=native&type=buddyIcon&t=Beta" height="48" border="1" alt="icon"/>&#160;IM History with buddy <a href="aim:goim?screenName=Beta&targetBuddyList=Alpha">Beta</a></h1>
+<table width="100%%" cellpadding="1" cellspacing="0">
+<tr><td colspan="2" class="time">Thursday, November 11, 2010</td></tr>
+<tr><td class="local">Alpha&#160;(9:55:51&#160;PM):</td><td class="msg" width="100%"><font face="Arial" size="2" color="#000000">maple syrup</font></td></tr>
+<tr><td class="local">Alpha&#160;(9:55:58&#160;PM):</td><td class="msg" width="100%"><font face="Arial" size="2" color="#000000">syrup leaves maple</font></td></tr>
+<tr><td class="remote">Beta&#160;(9:56:00&#160;PM):</td><td class="msg" width="100%">cereal</td></tr>
+<tr><td class="remote">Beta&#160;(9:56:01&#160;PM):</td><td class="msg" width="100%">milk cereal love it</td></tr>
+<tr><td class="remote">Beta&#160;(9:56:15&#160;PM):</td><td class="msg" width="100%">love all cereal</td></tr>
+<tr><td class="local">Alpha&#160;(9:56:23&#160;PM):</td><td class="msg" width="100%"><font face="Arial" size="2" color="#000000">super maple land go</font></td></tr>
+<tr><td colspan="2" class="event">Beta&#160;signed off at&#160;10:08:18&#160;PM</td></tr>
+</table>
+<a name="end"></a>
+</body>
+</html>
