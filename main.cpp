@@ -24,11 +24,14 @@ typedef unsigned int uint;
 using namespace std;
 
 //TODO: Add support for more formats
-enum LOG_TYPE {NONE, AIM};
+enum LOG_TYPE {LOG_NONE, LOG_AIM};
+enum SMOOTHING {SMOOTH_NONE, SMOOTH_LAPLACE};
 
 //Edit these to your liking
-const string DIRECTORY = "chatlog-IRC.txt";
-const LOG_TYPE LOGTYPE = NONE;
+const string DIRECTORY = "chatlog-NONE.txt";
+const LOG_TYPE LOGTYPE = LOG_NONE;
+const SMOOTHING SMOOTH = SMOOTH_NONE;
+const double SM_LAPLACE_PARAM = 1;
 
 float getTime();
 void cleanLog();
@@ -155,9 +158,20 @@ void makeMarkov(vector<vector<double>>* table, vector<string>* seq, vector<strin
 		//normalize
 		if(sum>0)
 		{
-			for(uint i=0;i<row->size();i++)
+			switch(SMOOTH)
 			{
-				row->at(i)/=sum;
+			case SMOOTH_NONE:
+				for(uint i=0;i<row->size();i++)
+				{
+					row->at(i)/=sum;
+				}
+				break;
+			case SMOOTH_LAPLACE:
+				for(uint i=0;i<row->size();i++)
+				{
+					row->at(i)=(row->at(i)+SM_LAPLACE_PARAM)/(sum+SM_LAPLACE_PARAM);
+				}
+				break;
 			}
 		}
 	}
@@ -249,9 +263,9 @@ void cleanLog()
 	copyFile(DIRECTORY,"chatlog.txt");
 	switch(LOGTYPE)
 	{
-	case NONE:
+	case LOG_NONE:
 		break;
-	case AIM:
+	case LOG_AIM:
 		cleanAIM();
 		break;
 	}
