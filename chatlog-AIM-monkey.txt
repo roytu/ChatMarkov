@@ -1,0 +1,59 @@
+<?xml version="1.0" standalone="yes" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<meta http-equiv="content-type" content="application/xhtml+xml;charset=utf-8"/>
+<title>IM History with buddy funkymonkey2095</title><link rel="stylesheet" href="styles.css" type="text/css">
+</head>
+<body><h1><img src="http://api.oscar.aol.com/expressions/get?f=native&type=buddyIcon&t=funkymonkey2095" height="48" border="1" alt="icon"/>&#160;IM History with buddy <a href="aim:goim?screenName=funkymonkey2095&targetBuddyList=thysnail">funkymonkey2095</a></h1>
+<table width="100%%" cellpadding="1" cellspacing="0">
+<tr><td colspan="2" class="time">Thursday, November 11, 2010</td></tr>
+<tr><td class="local">thysnail&#160;(9:55:51&#160;PM):</td><td class="msg" width="100%"><font face="Arial" size="2" color="#000000">blaah sharon!</font></td></tr>
+<tr><td class="local">thysnail&#160;(9:55:58&#160;PM):</td><td class="msg" width="100%"><font face="Arial" size="2" color="#000000">who's doing what for the math thing?</font></td></tr>
+<tr><td class="remote">funkymonkey2095&#160;(9:56:00&#160;PM):</td><td class="msg" width="100%">yes??</td></tr>
+<tr><td class="remote">funkymonkey2095&#160;(9:56:01&#160;PM):</td><td class="msg" width="100%">idk</td></tr>
+<tr><td class="remote">funkymonkey2095&#160;(9:56:15&#160;PM):</td><td class="msg" width="100%">i don&#39;t have the paper so i can&#39;t do anything!!</td></tr>
+<tr><td class="local">thysnail&#160;(9:56:23&#160;PM):</td><td class="msg" width="100%"><font face="Arial" size="2" color="#000000">I think kayla has the paper.</font></td></tr>
+<tr><td class="remote">funkymonkey2095&#160;(9:56:31&#160;PM):</td><td class="msg" width="100%">ohs noes...</td></tr>
+<tr><td class="local">thysnail&#160;(9:56:44&#160;PM):</td><td class="msg" width="100%"><font face="Arial" size="2" color="#000000">equation is cos(2x)^3+1</font></td></tr>
+<tr><td class="remote">funkymonkey2095&#160;(9:57:06&#160;PM):</td><td class="msg" width="100%">i don&#39;t have the energy!! i just got out of 8 hours of intensive band rehersal</td></tr>
+<tr><td class="local">thysnail&#160;(9:57:20&#160;PM):</td><td class="msg" width="100%"><font face="Arial" size="2" color="#000000">yeah I know <font><img src="aolbart:/1024/id/2B00003233/3A2D28" alt=":-("/></font></font></td></tr>
+<tr><td class="local">thysnail&#160;(9:57:28&#160;PM):</td><td class="msg" width="100%"><font face="Arial" size="2" color="#000000">I'm not exactly up for doing three graphs/charts though.</font></td></tr>
+<tr><td class="local">thysnail&#160;(9:57:37&#160;PM):</td><td class="msg" width="100%"><font face="Arial" size="2" color="#000000">do you have contact with justin/kayla?</font></td></tr>
+<tr><td class="remote">funkymonkey2095&#160;(9:58:07&#160;PM):</td><td class="msg" width="100%">three? and no i don&#39;t</td></tr>
+<tr><td class="local">thysnail&#160;(9:58:15&#160;PM):</td><td class="msg" width="100%"><font face="Arial" size="2" color="#000000">right/upper/lower</font></td></tr>
+<tr><td class="local">thysnail&#160;(9:58:19&#160;PM):</td><td class="msg" width="100%"><font face="Arial" size="2" color="#000000">what if I gave you the program?</font></td></tr>
+<tr><td class="remote">funkymonkey2095&#160;(9:59:05&#160;PM):</td><td class="msg" width="100%">i can barely function right now! i am friends with justin on fb, i can see if hes online</td></tr>
+<tr><td class="local">thysnail&#160;(9:59:14&#160;PM):</td><td class="msg" width="100%"><font face="Arial" size="2" color="#000000">alright, could you check for me?</font></td></tr>
+<tr><td class="local">thysnail&#160;(9:59:17&#160;PM):</td><td class="msg" width="100%"><font face="Arial" size="2" color="#000000">sorry about everything.</font></td></tr>
+<tr><td class="local">thysnail&#160;(9:59:34&#160;PM):</td><td class="msg" width="100%"><font face="Arial" size="2" color="#000000">just sort of sick of always taking the brunt of group projects.</font></td></tr>
+<tr><td class="remote">funkymonkey2095&#160;(10:00:02&#160;PM):</td><td class="msg" width="100%">what i am thinking is kayla is absent almost every other day anyways, if we tell ms harding she has the paper and shes not there we are alright</td></tr>
+<tr><td class="remote">funkymonkey2095&#160;(10:00:17&#160;PM):</td><td class="msg" width="100%">but i will check if justin is online though</td></tr>
+<tr><td class="local">thysnail&#160;(10:00:19&#160;PM):</td><td class="msg" width="100%"><font face="Arial" size="2" color="#000000">but I think she'd go if she had the paper.</font></td></tr>
+<tr><td class="local">thysnail&#160;(10:00:20&#160;PM):</td><td class="msg" width="100%"><font face="Arial" size="2" color="#000000">alright.</font></td></tr>
+<tr><td class="remote">funkymonkey2095&#160;(10:03:59&#160;PM):</td><td class="msg" width="100%">hes not online!! -_-</td></tr>
+<tr><td class="local">thysnail&#160;(10:04:05&#160;PM):</td><td class="msg" width="100%"><font face="Arial" size="2" color="#000000">bleh.</font></td></tr>
+<tr><td class="local">thysnail&#160;(10:04:10&#160;PM):</td><td class="msg" width="100%"><font face="Arial" size="2" color="#000000">whatever, I'll do it.</font></td></tr>
+<tr><td class="local">thysnail&#160;(10:04:13&#160;PM):</td><td class="msg" width="100%"><font face="Arial" size="2" color="#000000">thanks anyways.</font></td></tr>
+<tr><td class="remote">funkymonkey2095&#160;(10:06:20&#160;PM):</td><td class="msg" width="100%">awe, sorry</td></tr>
+<tr><td class="remote">funkymonkey2095&#160;(10:06:29&#160;PM):</td><td class="msg" width="100%">i didn&#39;t want to throw it on you!!</td></tr>
+<tr><td class="remote">funkymonkey2095&#160;(10:06:31&#160;PM):</td><td class="msg" width="100%">ahhhhh</td></tr>
+<tr><td class="local">thysnail&#160;(10:06:37&#160;PM):</td><td class="msg" width="100%"><font face="Arial" size="2" color="#000000">doesn't matter really.</font></td></tr>
+<tr><td class="remote">funkymonkey2095&#160;(10:06:43&#160;PM):</td><td class="msg" width="100%">:(</td></tr>
+<tr><td class="remote">funkymonkey2095&#160;(10:06:45&#160;PM):</td><td class="msg" width="100%">sorry</td></tr>
+<tr><td class="remote">funkymonkey2095&#160;(10:06:51&#160;PM):</td><td class="msg" width="100%">i gotta go get some dinner</td></tr>
+<tr><td class="local">thysnail&#160;(10:06:52&#160;PM):</td><td class="msg" width="100%"><font face="Arial" size="2" color="#000000">it's alright, not mad at you.</font></td></tr>
+<tr><td class="local">thysnail&#160;(10:06:55&#160;PM):</td><td class="msg" width="100%"><font face="Arial" size="2" color="#000000">what at 10</font></td></tr>
+<tr><td class="remote">funkymonkey2095&#160;(10:07:01&#160;PM):</td><td class="msg" width="100%">i had band</td></tr>
+<tr><td class="remote">funkymonkey2095&#160;(10:07:00&#160;PM):</td><td class="msg" width="100%">lol</td></tr>
+<tr><td class="local">thysnail&#160;(10:07:05&#160;PM):</td><td class="msg" width="100%"><font face="Arial" size="2" color="#000000">oh hah alright.</font></td></tr>
+<tr><td class="local">thysnail&#160;(10:07:08&#160;PM):</td><td class="msg" width="100%"><font face="Arial" size="2" color="#000000">see you tomorrow.</font></td></tr>
+<tr><td class="remote">funkymonkey2095&#160;(10:07:21&#160;PM):</td><td class="msg" width="100%">sorry again (even if ou&#39;re not mad at me) sleep well :)</td></tr>
+<tr><td class="local">thysnail&#160;(10:07:25&#160;PM):</td><td class="msg" width="100%"><font face="Arial" size="2" color="#000000">yep.</font></td></tr>
+<tr><td class="remote">funkymonkey2095&#160;(10:07:35&#160;PM):</td><td class="msg" width="100%">and thank you! :D</td></tr>
+<tr><td class="local">thysnail&#160;(10:07:39&#160;PM):</td><td class="msg" width="100%"><font face="Arial" size="2" color="#000000">sure.</font></td></tr>
+<tr><td colspan="2" class="event">funkymonkey2095&#160;signed off at&#160;10:08:18&#160;PM</td></tr>
+</table>
+<a name="end"></a>
+</body>
+</html>

@@ -120,7 +120,6 @@ void constructWordlist(string words,vector<string>* seq,vector<string>* list)
 	sort(list->begin(),list->end());
 	vector<string>::iterator u=unique(list->begin(),list->end());
 	list->resize(u-list->begin());
-	//list->erase(u);
 }
 int getID(string word,vector<string>* list)
 {
@@ -138,24 +137,25 @@ void makeMarkov(vector<vector<double>>* table, vector<string>* seq, vector<strin
 	table->clear();
 	table->resize(list->size(),vector<double>(list->size(),0));
 
-	for(uint x=0;x<table->size();x++)
+	vector<double> sums=vector<double>(list->size(),0);
+
+	for(uint i=0;i<seq->size()-1;i++)
 	{
-		vector<double>* row=&table->at(x);
-		string currentWord=list->at(x);
+		string currentWord=seq->at(i);
 		if(currentWord=="\n"){continue;}
+		string nextWord=seq->at(i+1);
 
-		double sum=0;
-		for(uint i=0;i<seq->size()-1;i++)
-		{
-			if(seq->at(i)==currentWord)
-			{
-				string nextWord=seq->at(i+1);
-				int c=getID(nextWord,list);
-				sum+=++row->at(c);
-			}
-		}
+		int cwi=getID(currentWord,list);
+		int nwi=getID(nextWord,list);
 
-		//normalize
+		++table->at(cwi).at(nwi);
+		++sums.at(cwi);
+	}
+	//normalize
+	for(uint r=0;r<table->size();r++)
+	{
+		vector<double>* row=&table->at(r);
+		double sum=sums.at(r);
 		if(sum>0)
 		{
 			switch(SMOOTH)
@@ -235,7 +235,7 @@ void constructUserInfo(vector<UserInfo>* userinfo, vector<string>* userlist, vec
 		UserInfo u = UserInfo();
 		u.user=userlist->at(i);
 		constructWordlist(chatstrings->at(i).text,&u.wordseq,&u.wordlist);
-		cout<<endl<<"  Constructing Markov table...";
+		cout<<"Constructing Markov table...";
 		makeMarkov(&u.markovTable,&u.wordseq,&u.wordlist);
 		cout<<" Done!"<<endl;
 		userinfo->push_back(u);
