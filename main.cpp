@@ -27,8 +27,8 @@ using namespace std;
 enum LOG_TYPE {NONE, AIM};
 
 //Edit these to your liking
-const string DIRECTORY = "chatlog-AIM.txt";
-const LOG_TYPE LOGTYPE = AIM;
+const string DIRECTORY = "chatlog-IRC.txt";
+const LOG_TYPE LOGTYPE = NONE;
 
 float getTime();
 void cleanLog();
@@ -115,7 +115,9 @@ void constructWordlist(string words,vector<string>* seq,vector<string>* list)
 
 	*list=*seq;
 	sort(list->begin(),list->end());
-	list->erase(unique(list->begin(),list->end()));
+	vector<string>::iterator u=unique(list->begin(),list->end());
+	list->resize(u-list->begin());
+	//list->erase(u);
 }
 int getID(string word,vector<string>* list)
 {
@@ -338,15 +340,20 @@ int main()
 	constructUserInfo(&userinfo,&userlist,&chatstrings);
 	cout<<" Done!"<<"("<<getTime()<<" secs)"<<endl;
 
+	ofstream file;
+	file.open("result.txt");
 	for(uint i=0;i<50;i++)
 	{
 		UserInfo ui=userinfo.at(rand()%userinfo.size());
 		string m=ui.GenerateString();
 		if(m!="")
 		{
-			cout<<m<<endl;
+			m+="\n";
+			file.write(m.c_str(),m.size());
+			cout<<m;
 		}
 	}
+	file.close();
 
 	system("pause");
 	return 0;
